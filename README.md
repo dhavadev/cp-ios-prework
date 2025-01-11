@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://imgur.com/gallery/codepath-Vqu48yw.gif)
+![](https://github.com/user-attachments/assets/e5024bda-b275-4298-be47-0937f27837a3.gif)
 
 ## App Brainstorming (Step 4)
 
